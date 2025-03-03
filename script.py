@@ -30,6 +30,7 @@ for line in transcript_lines:
             })
         current_timestamp = line
         current_content = []
+        
     else:
         current_content.append(line)
 
