@@ -3,10 +3,11 @@
 ## GRAPHIC AT THE END IF TIME
 
 """
-Automatic Face Zoom- 
+Automatic Face Zoom
 
 """
 
+from datetime import timedelta
 import json
 import os
 # Get script from YT
@@ -257,26 +258,77 @@ def calculate_importance(transcript_json):
 
 
 # Save teh follwing in transcript_importance.txt
-importance_scores = calculate_importance(transcript_json)
-print(importance_scores)
+# importance_scores = calculate_importance(transcript_json)
+# print(importance_scores)
 
 
-def write_final_cuts(heat_scores):
+def write_final_cuts(heat_scores, importance_scores):
     coordinates = []
     for entry in heat_scores:
+        importance = next((imp['importance'] for imp in importance_scores if imp['timestamp'] == entry['timestamp']), 0)
         if entry['heat'] >= 0.5:
             coordinates.append({
                 "timestamp": entry["timestamp"],
-                "cut": "top_left=(0, 0), scale=(640, 360)"  
+                "cut": "top_left=(0, 0), scale=(640, 360)",
+                "importance": importance  
             })
         else:
             coordinates.append({
                 "timestamp": entry["timestamp"],
-                "cut": "top_left=(40, 299), scale=(30, 30)"  
+                "cut": "top_left=(40, 299), scale=(30, 30)",
+                "importance": importance  
             })
     return coordinates
 
 with open('transcript_heat.txt', 'r') as file:
-    transcript_json = file.read()
+    transcript_heat = file.read()
+
+with open('transcript_importance.txt', 'r') as file:
+    transcript_importance = file.read()
+
 with open('final_cuts.txt', 'w') as file:
-    file.write(json.dumps(write_final_cuts(json.loads(transcript_json)), indent=4))
+    file.write(json.dumps(write_final_cuts(json.loads(transcript_heat), json.loads(transcript_importance)), indent=4))
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+from datetime import datetime
+import json
+
+# Load the cuts data
+with open('final_cuts.txt', 'r') as file:
+    cuts_data = json.load(file)
+
+# Prepare the timeline
+timestamps = [datetime.strptime(cut['timestamp'], "%H:%M") for cut in cuts_data]
+importance_levels = [cut['importance'] for cut in cuts_data]
+
+# Create a color map based on importance
+colors = ['red' if importance <= 0.2 else 'yellow' if importance == 0.6 else 'green' for importance in importance_levels]
+
+# Create the figure and axis
+fig, ax = plt.subplots(figsize=(12, 6))
+
+# Smooth the importance levels using a line plot with color based on importance
+for i in range(len(timestamps) - 1):
+    ax.plot(timestamps[i:i+2], importance_levels[i:i+2], color=colors[i], linewidth=3, alpha=0.8)
+
+# Highlight changes in cut position
+for i in range(1, len(cuts_data)):
+    if cuts_data[i]['cut'] != cuts_data[i-1]['cut']:
+        ax.axvline(x=timestamps[i], color='blue', linestyle='--', linewidth=2, label='Cut Change' if i == 1 else "")
+        ax.text(timestamps[i], max(importance_levels) + 0.1, 'Cut Change', color='blue', fontsize=10, ha='center')
+
+# Format the x-axis to show time every minute
+ax.xaxis.set_major_locator(mdates.MinuteLocator(interval=25)) 
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%H:%M"))
+plt.xticks(rotation=45)
+
+# Add labels and title
+ax.set_xlabel('Time', fontsize=12)
+ax.set_ylabel('Importance Level', fontsize=12)
+ax.set_title('Timeline', fontsize=14, fontweight='bold')
+
+# Show the plot
+plt.legend()
+plt.grid(True, linestyle='--', alpha=0.5)
+plt.tight_layout()
+plt.show()
