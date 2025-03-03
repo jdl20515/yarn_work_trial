@@ -1,0 +1,650 @@
+[
+    {
+        "timestamp": "0:00",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:01",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:04",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:05",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:07",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:10",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:12",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:14",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:16",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:18",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:20",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:22",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:24",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:26",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:29",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:31",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:33",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:35",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:38",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:40",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:43",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "0:45",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "0:47",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "0:48",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "0:50",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "0:53",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "0:54",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "0:57",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "0:58",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:01",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:03",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:05",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:07",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:08",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:10",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:12",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:14",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:15",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:19",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:21",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:22",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:24",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:25",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:28",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:29",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:32",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:33",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:35",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:38",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:39",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:41",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:43",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:45",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:48",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:50",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:52",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:54",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:56",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "1:59",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:03",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:04",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:07",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:09",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:10",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:12",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:14",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:16",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:20",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:23",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:25",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:27",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:29",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:30",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:32",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:34",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:36",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:37",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:39",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:41",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:42",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:44",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:46",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:48",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:49",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:53",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:55",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:56",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "2:59",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:00",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:02",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:05",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:07",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:09",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:11",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:13",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:14",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:16",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:18",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:21",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:24",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:25",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:26",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:28",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:30",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:32",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:34",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:36",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:38",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:40",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:42",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:44",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:46",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:48",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:49",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:51",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:53",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:57",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "3:59",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:02",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:05",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:08",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:10",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:12",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:13",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:15",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:17",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:18",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:21",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:23",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:25",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:27",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:28",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:30",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:32",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:34",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:36",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:39",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:40",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:42",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:44",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:46",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:47",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:50",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:52",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:53",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:55",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:56",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:58",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "4:59",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "5:01",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "5:03",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "5:05",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "5:06",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "5:08",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "5:10",
+        "cut": "top_left=(0, 0), scale=(640, 360)"
+    },
+    {
+        "timestamp": "5:11",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "5:12",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "5:14",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "5:15",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "5:18",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "5:20",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    },
+    {
+        "timestamp": "5:21",
+        "cut": "top_left=(40, 299), scale=(30, 30)"
+    }
+]

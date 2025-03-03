@@ -1,0 +1,812 @@
+[
+    {
+        "timestamp": "0:00",
+        "content": "hey everyone ainka here one of the",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:01",
+        "content": "co-founders here at Tris I wanted to",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:04",
+        "content": "welcome you today to learning more about",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:05",
+        "content": "the platform and just walk you through",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:07",
+        "content": "what trus does trellis is an AI co-pilot",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:10",
+        "content": "that works where you work what that",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:12",
+        "content": "means is trellis will do everything",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:14",
+        "content": "you've come to expect from the latest",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:16",
+        "content": "and greatest of AI tools but will do it",
+        "heat": 0
+    },
+    {
+        "timestamp": "0:18",
+        "content": "inside of your existing sales tool",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:20",
+        "content": "Stacks you don't have tool fatigue or",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:22",
+        "content": "tool switch overhead you can just work",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:24",
+        "content": "how you work and get that AI assist when",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:26",
+        "content": "you need it we do primarily four things",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:29",
+        "content": "we research your prospects we generate",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:31",
+        "content": "personalized cold emails we automate all",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:33",
+        "content": "your cold call admin work so that you",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:35",
+        "content": "don't have to do notes dispositions",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:38",
+        "content": "you'll just be in calls at all times and",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:40",
+        "content": "then we coach you live on your calls on",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:43",
+        "content": "what to say what we're going to do here",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "0:45",
+        "content": "first is show you the platform inside",
+        "heat": 0.5
+    },
+    {
+        "timestamp": "0:47",
+        "content": "one of the platforms that we support",
+        "heat": 0.5
+    },
+    {
+        "timestamp": "0:48",
+        "content": "which is called Outreach and then we're",
+        "heat": 0.5
+    },
+    {
+        "timestamp": "0:50",
+        "content": "going to just show you some of the other",
+        "heat": 0.5
+    },
+    {
+        "timestamp": "0:53",
+        "content": "analytics dashboards that tralis can",
+        "heat": 0.5
+    },
+    {
+        "timestamp": "0:54",
+        "content": "bring you as a manager so just to get",
+        "heat": 0.5
+    },
+    {
+        "timestamp": "0:57",
+        "content": "started here let's open up Outreach and",
+        "heat": 1
+    },
+    {
+        "timestamp": "0:58",
+        "content": "move in so I have Outreach opened up",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:01",
+        "content": "here um I have some tasks loaded and I'm",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:03",
+        "content": "just going to show you some of these",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:05",
+        "content": "admin assists that trus will do for you",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:07",
+        "content": "so the first part is really that",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:08",
+        "content": "research aspect that I was talking about",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:10",
+        "content": "Charles will go and find you know that",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:12",
+        "content": "person's LinkedIn in case you want to",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:14",
+        "content": "find it cool so I can confirm that this",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:15",
+        "content": "is Raven at bellil I can also then look",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:19",
+        "content": "at you know any previous calls that I've",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:21",
+        "content": "had with them I've you know blasted",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:22",
+        "content": "Raven a bunch of times you know that's",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:24",
+        "content": "just how you have to do it in Cold's",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:25",
+        "content": "calling you have to be persistent uh and",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:28",
+        "content": "then it'll generate any information",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:29",
+        "content": "about their company that I can look into",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:32",
+        "content": "uh and then you know I can look into",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:33",
+        "content": "their LinkedIn if I want to go and",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:35",
+        "content": "request that data finally if I wanted to",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:38",
+        "content": "I could generate a personalized email",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:39",
+        "content": "from here I could also do it natively",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:41",
+        "content": "inside the platform just from their",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:43",
+        "content": "email widget so I can click here click",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "1:45",
+        "content": "generate email with one click trus will",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:48",
+        "content": "use my past call context and any",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:50",
+        "content": "information about their company to",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:52",
+        "content": "generate that email for me I can then",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:54",
+        "content": "chat with the AI to you know ask",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:56",
+        "content": "questions about hey you know I want to",
+        "heat": 1
+    },
+    {
+        "timestamp": "1:59",
+        "content": "make this email include more details",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:03",
+        "content": "about their",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:04",
+        "content": "company I can send that over Charles",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:07",
+        "content": "will then learn from you know the prompt",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:09",
+        "content": "that you're giving similar to how chat",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:10",
+        "content": "GPT works and then include that",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:12",
+        "content": "information directly here you can then",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:14",
+        "content": "of course copy this paste in and just",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:16",
+        "content": "paste the email and send it off awesome",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:20",
+        "content": "so what does trus do for cold calling",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "2:23",
+        "content": "well if you might see here trus converts",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "2:25",
+        "content": "your existing sales platform into an",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "2:27",
+        "content": "auto dialer what that means is when I",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "2:29",
+        "content": "press play here Char is going to",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:30",
+        "content": "automate all the work associated with",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:32",
+        "content": "calling whether that's disposition",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:34",
+        "content": "figuring out what number to call if that",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:36",
+        "content": "person's in the right time zone all that",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:37",
+        "content": "will be done automatically for you and",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:39",
+        "content": "the kicker is you can listen to music",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:41",
+        "content": "while you're doing it if you click the",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:42",
+        "content": "music icon right here so let's just do",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:44",
+        "content": "one example call and check how it works",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:46",
+        "content": "so it's going to dial that work number",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:48",
+        "content": "it's telling me it's doing that it's",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:49",
+        "content": "going to dial the number",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:53",
+        "content": "automat and then on the right hand side",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:55",
+        "content": "over here you're going to see TRS",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:56",
+        "content": "actually pop up in context on what",
+        "heat": 1
+    },
+    {
+        "timestamp": "2:59",
+        "content": "happened on the last call so that you're",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:00",
+        "content": "prepared for the conversation as it",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:02",
+        "content": "happens Char will also automate hanging",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:05",
+        "content": "up on a call if it rings for too long or",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:07",
+        "content": "if it goes to voicemail and then finally",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:09",
+        "content": "you know it will give you any",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:11",
+        "content": "suggestions based off what they say so",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:13",
+        "content": "I'm going to pick up here I'd secretly",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:14",
+        "content": "put my number in and on the other end",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:16",
+        "content": "and I'm GNA give an example of something",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:18",
+        "content": "saying like hey you know I'm not",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:21",
+        "content": "interested or something like that um and",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:24",
+        "content": "then Charles is just going to give me",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:25",
+        "content": "suggestion on what I can do in this",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:26",
+        "content": "scenario based off my opener it's going",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:28",
+        "content": "to give me coaching suggestion on you",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:30",
+        "content": "know I should probably speak slower",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:32",
+        "content": "information like that finally as soon as",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:34",
+        "content": "I end the call here Charles is going to",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:36",
+        "content": "automatically generate a call summary",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:38",
+        "content": "for me it's going to log the call for me",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:40",
+        "content": "say they were busy move on and get to",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:42",
+        "content": "the next conversation automatically so",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:44",
+        "content": "this is done automatically for you it's",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:46",
+        "content": "a fully hands-free dialing experience",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:48",
+        "content": "that you can experience inside your",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:49",
+        "content": "existing platforms now if I want to stop",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:51",
+        "content": "it here I can just press pause and",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:53",
+        "content": "Charles will stop cool this also works",
+        "heat": 1
+    },
+    {
+        "timestamp": "3:57",
+        "content": "across other supported platforms whether",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "3:59",
+        "content": "it be sales Loft whether it be HubSpot",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:02",
+        "content": "or whether you know it be Apollo so in",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:05",
+        "content": "Apollo you just go to your tasks",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:08",
+        "content": "View and then you can click into the",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:10",
+        "content": "first call task that you have or",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:12",
+        "content": "LinkedIn task of course it will just",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:13",
+        "content": "find it for you automatically and then",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:15",
+        "content": "the auto dier will pop up right here for",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:17",
+        "content": "you",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:18",
+        "content": "automatically awesome the final aspects",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:21",
+        "content": "of trus are really our analytic",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:23",
+        "content": "dashboard where you get full access to",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:25",
+        "content": "information about you know the scores",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:27",
+        "content": "that your teams are getting how they're",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:28",
+        "content": "fairing on their calls the activity",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:30",
+        "content": "volumes their pitch volumes how they're",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:32",
+        "content": "converting TR us to Texs all of that for",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:34",
+        "content": "you so let's say I want to understand",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:36",
+        "content": "hey you know why are what are the",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:39",
+        "content": "happening in the calls where we actually",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:40",
+        "content": "go from connect to pitch I can click",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:42",
+        "content": "here I can read through these calls",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:44",
+        "content": "automatically and I can look at you know",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:46",
+        "content": "what's happening over here if I wanted",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:47",
+        "content": "to understand it better finally Char",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:50",
+        "content": "will give you top level analytics in",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:52",
+        "content": "terms of the objections you're facing",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:53",
+        "content": "the behaviors your reps are doing the",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:55",
+        "content": "outcomes they're achieving the",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:56",
+        "content": "counterparts you're reaching so how",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:58",
+        "content": "often are you reaching prospects",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "4:59",
+        "content": "Gatekeepers things like that and then",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "5:01",
+        "content": "finally we'll give you access to things",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "5:03",
+        "content": "like transcripts we'll give you access",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "5:05",
+        "content": "to the ability to live listen to other",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "5:06",
+        "content": "calls and then a whole host of other",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "5:08",
+        "content": "features that we just don't have time to",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "5:10",
+        "content": "go into over here but if you're",
+        "heat": 0.8
+    },
+    {
+        "timestamp": "5:11",
+        "content": "interested in checking it out TR is",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "5:12",
+        "content": "actually free to try you just have to",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "5:14",
+        "content": "download our extension from our website",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "5:15",
+        "content": "at tr. and you can get started right now",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "5:18",
+        "content": "get that AI assist and two to 3x your",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "5:20",
+        "content": "output inside your sales engagement",
+        "heat": 0.2
+    },
+    {
+        "timestamp": "5:21",
+        "content": "platform today itself thank you",
+        "heat": 0.2
+    }
+]

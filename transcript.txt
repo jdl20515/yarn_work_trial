@@ -1,0 +1,327 @@
+
+
+
+0:00
+hey everyone ainka here one of the
+0:01
+co-founders here at Tris I wanted to
+0:04
+welcome you today to learning more about
+0:05
+the platform and just walk you through
+0:07
+what trus does trellis is an AI co-pilot
+0:10
+that works where you work what that
+0:12
+means is trellis will do everything
+0:14
+you've come to expect from the latest
+0:16
+and greatest of AI tools but will do it
+0:18
+inside of your existing sales tool
+0:20
+Stacks you don't have tool fatigue or
+0:22
+tool switch overhead you can just work
+0:24
+how you work and get that AI assist when
+0:26
+you need it we do primarily four things
+0:29
+we research your prospects we generate
+0:31
+personalized cold emails we automate all
+0:33
+your cold call admin work so that you
+0:35
+don't have to do notes dispositions
+0:38
+you'll just be in calls at all times and
+0:40
+then we coach you live on your calls on
+0:43
+what to say what we're going to do here
+0:45
+first is show you the platform inside
+0:47
+one of the platforms that we support
+0:48
+which is called Outreach and then we're
+0:50
+going to just show you some of the other
+0:53
+analytics dashboards that tralis can
+0:54
+bring you as a manager so just to get
+0:57
+started here let's open up Outreach and
+0:58
+move in so I have Outreach opened up
+1:01
+here um I have some tasks loaded and I'm
+1:03
+just going to show you some of these
+1:05
+admin assists that trus will do for you
+1:07
+so the first part is really that
+1:08
+research aspect that I was talking about
+1:10
+Charles will go and find you know that
+1:12
+person's LinkedIn in case you want to
+1:14
+find it cool so I can confirm that this
+1:15
+is Raven at bellil I can also then look
+1:19
+at you know any previous calls that I've
+1:21
+had with them I've you know blasted
+1:22
+Raven a bunch of times you know that's
+1:24
+just how you have to do it in Cold's
+1:25
+calling you have to be persistent uh and
+1:28
+then it'll generate any information
+1:29
+about their company that I can look into
+1:32
+uh and then you know I can look into
+1:33
+their LinkedIn if I want to go and
+1:35
+request that data finally if I wanted to
+1:38
+I could generate a personalized email
+1:39
+from here I could also do it natively
+1:41
+inside the platform just from their
+1:43
+email widget so I can click here click
+1:45
+generate email with one click trus will
+1:48
+use my past call context and any
+1:50
+information about their company to
+1:52
+generate that email for me I can then
+1:54
+chat with the AI to you know ask
+1:56
+questions about hey you know I want to
+1:59
+make this email include more details
+2:03
+about their
+2:04
+company I can send that over Charles
+2:07
+will then learn from you know the prompt
+2:09
+that you're giving similar to how chat
+2:10
+GPT works and then include that
+2:12
+information directly here you can then
+2:14
+of course copy this paste in and just
+2:16
+paste the email and send it off awesome
+2:20
+so what does trus do for cold calling
+2:23
+well if you might see here trus converts
+2:25
+your existing sales platform into an
+2:27
+auto dialer what that means is when I
+2:29
+press play here Char is going to
+2:30
+automate all the work associated with
+2:32
+calling whether that's disposition
+2:34
+figuring out what number to call if that
+2:36
+person's in the right time zone all that
+2:37
+will be done automatically for you and
+2:39
+the kicker is you can listen to music
+2:41
+while you're doing it if you click the
+2:42
+music icon right here so let's just do
+2:44
+one example call and check how it works
+2:46
+so it's going to dial that work number
+2:48
+it's telling me it's doing that it's
+2:49
+going to dial the number
+2:53
+automat and then on the right hand side
+2:55
+over here you're going to see TRS
+2:56
+actually pop up in context on what
+2:59
+happened on the last call so that you're
+3:00
+prepared for the conversation as it
+3:02
+happens Char will also automate hanging
+3:05
+up on a call if it rings for too long or
+3:07
+if it goes to voicemail and then finally
+3:09
+you know it will give you any
+3:11
+suggestions based off what they say so
+3:13
+I'm going to pick up here I'd secretly
+3:14
+put my number in and on the other end
+3:16
+and I'm GNA give an example of something
+3:18
+saying like hey you know I'm not
+3:21
+interested or something like that um and
+3:24
+then Charles is just going to give me
+3:25
+suggestion on what I can do in this
+3:26
+scenario based off my opener it's going
+3:28
+to give me coaching suggestion on you
+3:30
+know I should probably speak slower
+3:32
+information like that finally as soon as
+3:34
+I end the call here Charles is going to
+3:36
+automatically generate a call summary
+3:38
+for me it's going to log the call for me
+3:40
+say they were busy move on and get to
+3:42
+the next conversation automatically so
+3:44
+this is done automatically for you it's
+3:46
+a fully hands-free dialing experience
+3:48
+that you can experience inside your
+3:49
+existing platforms now if I want to stop
+3:51
+it here I can just press pause and
+3:53
+Charles will stop cool this also works
+3:57
+across other supported platforms whether
+3:59
+it be sales Loft whether it be HubSpot
+4:02
+or whether you know it be Apollo so in
+4:05
+Apollo you just go to your tasks
+4:08
+View and then you can click into the
+4:10
+first call task that you have or
+4:12
+LinkedIn task of course it will just
+4:13
+find it for you automatically and then
+4:15
+the auto dier will pop up right here for
+4:17
+you
+4:18
+automatically awesome the final aspects
+4:21
+of trus are really our analytic
+4:23
+dashboard where you get full access to
+4:25
+information about you know the scores
+4:27
+that your teams are getting how they're
+4:28
+fairing on their calls the activity
+4:30
+volumes their pitch volumes how they're
+4:32
+converting TR us to Texs all of that for
+4:34
+you so let's say I want to understand
+4:36
+hey you know why are what are the
+4:39
+happening in the calls where we actually
+4:40
+go from connect to pitch I can click
+4:42
+here I can read through these calls
+4:44
+automatically and I can look at you know
+4:46
+what's happening over here if I wanted
+4:47
+to understand it better finally Char
+4:50
+will give you top level analytics in
+4:52
+terms of the objections you're facing
+4:53
+the behaviors your reps are doing the
+4:55
+outcomes they're achieving the
+4:56
+counterparts you're reaching so how
+4:58
+often are you reaching prospects
+4:59
+Gatekeepers things like that and then
+5:01
+finally we'll give you access to things
+5:03
+like transcripts we'll give you access
+5:05
+to the ability to live listen to other
+5:06
+calls and then a whole host of other
+5:08
+features that we just don't have time to
+5:10
+go into over here but if you're
+5:11
+interested in checking it out TR is
+5:12
+actually free to try you just have to
+5:14
+download our extension from our website
+5:15
+at tr. and you can get started right now
+5:18
+get that AI assist and two to 3x your
+5:20
+output inside your sales engagement
+5:21
+platform today itself thank you
