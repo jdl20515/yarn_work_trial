@@ -30,7 +30,7 @@ for line in transcript_lines:
             })
         current_timestamp = line
         current_content = []
-        
+
     else:
         current_content.append(line)
 
@@ -177,6 +177,7 @@ def calculate_heat(transcript_json):
         temperature=0,
     )
     result = response.choices[0].message.content.strip()  # Strip any leading/trailing whitespace
+    
     
     # Attempt to parse the response as JSON
     try:
